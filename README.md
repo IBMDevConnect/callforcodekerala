@@ -1,7 +1,12 @@
 # CALL FOR CODE DAY Kerala
 
+## Team Presentation
+
 Presentation Template for Team on 2nd Day [presentation](https://github.com/IBMDevConnect/callforcodekerala/blob/master/Hackathon%20Presentation%20Template%20-%20CFC%20Kerala.pptx)
 
+## Hackathon io [Steps](https://github.com/IBMDevConnect/callforcodekerala/blob/master/hackathon_io_steps.docx) For Team and Team members
+
+## Submission Details 
 
 
 ## RULES
